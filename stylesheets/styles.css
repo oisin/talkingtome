@@ -289,9 +289,6 @@ footer a {
   font-weight: bold;
 }
 footer p {
-  float: left;
-}
-footer p + p {
   float: right;
 }
 
